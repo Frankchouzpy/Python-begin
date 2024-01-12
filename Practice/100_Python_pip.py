@@ -1,5 +1,6 @@
 # **************************************************************
 # Python pip
+# website:  pypi.org
 # **************************************************************
 #       pip = package manager for packages and modules from Python Package Index
 #
